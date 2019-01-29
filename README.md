@@ -1,4 +1,6 @@
-# awesome-yuan
+![awesome-yuan](https://user-images.githubusercontent.com/6647633/51915989-4c08be80-2417-11e9-8b21-37355dfc3f60.png)
+
+<a href="https://logo-maker.egoist.sh/"><img width="78" height="20" src="https://img.shields.io/badge/logo-maker-blue.svg"></a>&nbsp;&nbsp;<a href="https://www.v2ex.com/t/531403"><img width="74" height="20" src="https://img.shields.io/badge/topic-v2ex-brightgreen.svg"></a>
 
 > 猿* 新词系列，如 "开猿节流"
 
