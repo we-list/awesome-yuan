@@ -34,5 +34,3 @@
 
 @程序员的那些事<br>
 https://www.weibo.com/2093492691/HcwCnrphT
-
-<img width=260 src=https://user-images.githubusercontent.com/6647633/51817206-b67d0a00-2304-11e9-872b-efa1f2ececef.jpg>
